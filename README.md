@@ -17,4 +17,4 @@ R. Massa, A. Marchisio, M. Martina and M. Shafique, "An Efficient Spiking Neural
 ## Using scripts
 The folder `SNNToolbox_analysis` contains the scripts for analyzing the DNN-to-SNN conversion through SNNToolbox.
 - `simulator.py` requires as input a DNN trained in Keras (in `.h5` format), and executes the conversion with the parameters specified in `sim_specs.txt`.
-- `sweep_simulator.py` executes a sweep of the simulation with different parameters, specified in `sim_sweep_specs.txt'.
+- `sweep_simulator.py` executes a sweep of the simulation with different parameters, specified in `sim_sweep_specs.txt`.
