@@ -1,0 +1,11 @@
+nxtfnet_test22gen7
+mnist
+10000
+nahuku32_2h
+nopow
+256
+3 5
+noplots
+ThNormOn
+hard
+sweep

@@ -1,0 +1,11 @@
+myTinymobilenet9noQuantWR10-2
+cifar10
+10000
+nahuku32_2h
+nopow
+256
+1
+noplots
+ThNormOn
+soft
+nosweep
