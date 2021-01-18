@@ -1,0 +1,12 @@
+hand_clapping avg number of events: 162140.11475409835
+right_hand_wave avg number of events: 679849.1721311476
+left_hand_wave avg number of events: 1528870.3442622952
+right_arm_clockwise avg number of events: 3103409.7213114756
+right_arm_counter_clockwise avg number of events: 5274871.901639344
+left_arm_clockwise avg number of events: 8022063.303278688
+left_arm_counter_clockwise avg number of events: 11261693.270491803
+arm_roll avg number of events: 14931511.639344262
+air_drums avg number of events: 19010720.18032787
+air_guitar avg number of events: 23484411.221311476
+other_gestures avg number of events: 28261915.040983606
+

@@ -1,0 +1,31 @@
+number of events per gesture:
+
+	hand clapping:       14399875.0
+	R wave:              19867046.0
+	L wave:              18251391.0
+	R clockwise:         35610749.0
+	R counter clockwise: 36724048.0
+	L clockwise:         31430210.0
+	L counter clockwise: 31494340.0
+	arm roll:            23869640.0
+	air drums:           24412337.0
+	air guitar:          18076312.0
+	other gestures:      37541592.0
+
+mean number of events per second:
+	
+	hand clapping:       29999.7
+	R wave: 	     41389.7
+	L wave: 	     38023.7
+	R clockwise:         74189.1
+	R counter clockwise: 76508.4
+	L clockwise:         65479.6
+	L counter clockwise: 65613.2
+	arm roll:            49728.4
+	air drums:	     50859.0
+	air guitar:          37659.0
+	other gestures:      78211.7
+
+average mean number of events per second:
+	55241   events/s
+	   55.2 events/ms
