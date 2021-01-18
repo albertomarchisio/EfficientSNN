@@ -18,3 +18,8 @@ R. Massa, A. Marchisio, M. Martina and M. Shafique, "An Efficient Spiking Neural
 The folder `SNNToolbox_analysis` contains the scripts for analyzing the DNN-to-SNN conversion through SNNToolbox.
 - `simulator.py` requires as input a DNN trained in Keras (in `.h5` format), and executes the conversion with the parameters specified in `sim_specs.txt`.
 - `sweep_simulator.py` executes a sweep of the simulation with different parameters, specified in `sim_sweep_specs.txt`.
+
+The folder `DVS-preprocessing` contains the scripts for processing the DvsGesture dataset, and make it possible to be used in the DNN domain.
+- `dataset_generator{...}.py` generates the dataset with the specified settings and exports it in `.pickle` format.
+- `dataset_video{...}.py` generates the video with the specified settings.
+- some examples of output results are available.
